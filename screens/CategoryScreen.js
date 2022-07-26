@@ -1,4 +1,4 @@
-import {StyleSheet, Text, View, FlatList, ScrollView} from 'react-native';
+import {StyleSheet, FlatList} from 'react-native';
 import React from 'react';
 import {CATEGORIES} from '../data/dummy-data';
 import CategoryGridTile from '../components/CategoryGridTile';
