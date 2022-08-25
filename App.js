@@ -33,8 +33,8 @@ const App = () => {
           <Stack.Navigator
             screenOptions={{
               headerTitleStyle: {
-                fontSize: 20,
-                color: 'red',
+                fontSize: 18,
+                color: 'blue',
               },
               headerTitleAlign: 'center',
             }}>
